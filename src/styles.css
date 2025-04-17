@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+:root{
+
+    --primary-color: #7001FD;
+    --secondary-color: #1E2772; 
+    --gray-bg: #EEEEEE;
+    --white-bg: #FFFFFF;
+    --text-color: #555555;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+}
