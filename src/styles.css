@@ -6,13 +6,14 @@
     --gray-bg: #EEEEEE;
     --white-bg: #FFFFFF;
     --text-color: #555555;
-
+    --btn-bg: #F1F3F6
 }
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 
 html,body{
